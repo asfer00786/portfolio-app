@@ -24,12 +24,11 @@ export const portfolioData: PortfolioData = {
       },
       {
         text: 'Download Resume',
-        href: '/resume.pdf',
+        href: '/portfolio-app/resume.pdf',
         variant: 'outline-primary'
       }
     ],
-    resumeLink: '/resume.pdf',
+    resumeLink: '/portfolio-app/resume.pdf',
     showScrollIndicator: true
   }
 };
-
